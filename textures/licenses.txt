@@ -1,0 +1,20 @@
+Backgrounds 1 & 2 - https://craftpix.net/freebies/free-city-ruin-backgrounds-pixel-art/
+license - OGA-BY 3.0
+
+Door - https://opengameart.org/content/lpc-animated-doors
+license - CC-BY 3.0
+
+All enemies/boss - https://opengameart.org/content/enemies-for-platformer-pixel-art
+license - OGA-BY 3.0
+
+Player attack animations/weapons - https://craftpix.net/freebies/free-characters-with-melee-attack-pixel-art/
+license - OGA-BY 3.0
+
+Player animations - https://opengameart.org/content/3-cyberpunk-characters
+license - OGA-BY 3.0
+
+Sword (ground) - https://opengameart.org/content/longsword-64x64
+license - CC0
+
+Key - https://opengameart.org/content/key-icons
+license - CC-BY 4.0
